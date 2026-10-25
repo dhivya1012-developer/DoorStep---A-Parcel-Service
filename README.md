@@ -20,7 +20,6 @@ A parcel and moving service website built using **HTML, CSS, JavaScript, and Ema
 | 🎨 CSS3 | Styling and layout |
 | ⚡ JavaScript | Form handling and interactivity |
 | 📧 EmailJS | Sending enquiry emails |
-| ⭐ Font Awesome | Icons |
 | 🗺️ Google Maps | Embedded location map |
 
 ## 📧 EmailJS Configuration
